@@ -1,4 +1,4 @@
-# CAFE SALES INSIGHTS DASHBOARD USING EXCEL
+# CAFE SALES DASHBOARD USING EXCEL
 
 ## Project Overview
 This project involves the creation of a **Cafe Sales Dashboard** using Excel, designed to provide valuable insights into sales performance, and product preferences of the customers to aid decision-making and enhance the cafe's business strategies.
